@@ -48,3 +48,7 @@ end
 #figaro
 gem 'figaro'
 
+#bootstrap
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
+
